@@ -1,0 +1,1 @@
+# Trade-journel-desktop-application
